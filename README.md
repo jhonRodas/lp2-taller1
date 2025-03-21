@@ -34,7 +34,7 @@ venv/bin/activate
 
 3. Instalar librerías y dependencias
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
     
 ## Ejecución
